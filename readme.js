@@ -15,7 +15,6 @@
 // <insert QR code here for x-rays>
 // <insert QR code for time_dilation>
 // We encourage you to explore the code of these projects, and share what you make.
-// https://hydra.ojack.xyz/
 
 // Thank you !!
 // Special thanks ()=> (CS, TE, KB, MNP, OJ)
