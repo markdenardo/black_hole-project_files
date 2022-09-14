@@ -12,6 +12,8 @@
 // theory: we are all singularity material, we can make/build gravity wells, for whatever we want.
 
 // VISUALS: to cast the visual component of this project apply these QR Codes:
+// <insert QR code here for x-rays>
+// <insert QR code for time_dilation>
 // We encourage you to explore the code of these projects, and share what you make.
 
 // Thank you !!
