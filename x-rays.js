@@ -1,6 +1,7 @@
 // licensed with CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-// black_hole: x-rays 
-// MDN
+// black_hole - x-rays 
+// MDN (@markdenardo)
+
 bpm =300
 const t =(()=>time)
 const pi=(()=>Math.random(Math.PI))
