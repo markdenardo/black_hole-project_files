@@ -9,4 +9,4 @@ const flt2=(i,m,v,o)=>(src(i).modulate(m).modulatePixelate(noise(v,0.5),100).out
 sh(pi,o0,o2)
 flt(o0,f,o1)
 flt2(o0,o1,f,o2)
-render()
+render(o0)
