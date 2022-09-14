@@ -1,5 +1,3 @@
-
-
 // black_hole
 // a spell re: a dance with a black hole.
 // made w code by MDN 
