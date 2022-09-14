@@ -1,6 +1,6 @@
 // black_hole
-// a poem about a dance with a black hole
-// spell made w code by MDN 
+// a spell about a dance with a black hole
+// made w code by MDN 
 
 // side a: x-rays
 // side b: time_dilation
