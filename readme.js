@@ -1,5 +1,5 @@
 // black_hole
-// a poem about a dance with a black hole.
+// a poem about a dance with a black hole
 // spell made w code by MDN 
 
 // side a: x-rays
@@ -15,9 +15,10 @@
 // <insert QR code here for x-rays>
 // <insert QR code for time_dilation>
 // We encourage you to explore the code of these projects, and share what you make.
+// https://hydra.ojack.xyz/
 
 // Thank you !!
 // Special thanks ()=> (CS, TE, KB, MNP, OJ)
 
-// all songs, code, and ideas 
+// songs, code, and concept 
 // by MDN / Mark DeNardo 2022
