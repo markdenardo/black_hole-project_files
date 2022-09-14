@@ -1,5 +1,5 @@
 //licensed with CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-//black_hole - time dilation
+//black_hole - time_dilation
 //MDN 
 
 const t =(()=>time)
