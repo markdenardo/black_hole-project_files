@@ -5,7 +5,7 @@
 // side a: x-rays
 // side b: time_dilation
 
-// two live code sessions, in Orca + OP-1 + hydra.js
+// two live code sessions, in Orca + OP-1 + hydra-synth
 
 // SOURCE MATERIAL
 // themes inspired from childhood near-death experiences and how we came to understand them
