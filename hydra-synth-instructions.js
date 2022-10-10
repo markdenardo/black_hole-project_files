@@ -9,6 +9,7 @@
 // the time_dilation project responds dynamically to the composition
 //
 // allow microphone access on your web browser of choice so that you can view the visuals
+// there is default code for mac users ; allow mic permissions to see the full time-dilation project
 //
 // SOME TO-DOS: 
 // change the buffer by assigning o0, o1,o2,o3 as an argument within the render() function
