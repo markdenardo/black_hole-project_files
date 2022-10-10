@@ -9,7 +9,7 @@
 
 // SOURCE MATERIAL
 // themes inspired from childhood near-death experiences and how we came to understand them
-// theory: we are all singularity material, and can make/build gravity wells for powerful spells
+// theory: we are all singularity material; can make/build gravity wells for powerful spells
 
 // VISUALS: to cast the visual component of this project apply these QR Codes:
 // <insert QR code here for x-rays>
