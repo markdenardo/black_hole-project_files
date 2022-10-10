@@ -17,7 +17,7 @@
 // We encourage you to explore the code of these projects, and share what you make.
 
 // Thank you !!
-// Special thanks ()=> (CS, TE, KB, MNP, OJ)
+// Special thanks ()=> (CS, TE, KB, MNP, OJ, RS)
 
 // songs, code, and concept 
 // by MDN / Mark DeNardo 2022
