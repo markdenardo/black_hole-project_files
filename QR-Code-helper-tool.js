@@ -1,3 +1,4 @@
+// enter this code into console in developer tools, and it will generate QR code jpeg pointing to the page
 await loadScript('https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js')
 window.downloadURI = function (uri, name) {
   var link = document.createElement("a");
