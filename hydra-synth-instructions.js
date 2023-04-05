@@ -1,13 +1,8 @@
 // HYDRA SYNTH INSTRUCTIONS
-//
 // hydra-synth is a video synth made by Olivia Jack (IG: @o_jack)
-//
 // accessing the QR code will open bh projects in a web page
-//
 // the x-rays project will run as soon as you load the page
-//
 // the time_dilation project responds dynamically to the sound composition
-//
 // caveat: allow microphone access on your web browser of choice so that you can view the visuals
 //
 // SOME TO-DOS: 
