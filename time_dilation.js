@@ -2,8 +2,8 @@
 // black_hole - time_dilation
 // MDN (@markdenardo)
 
-let f = ()=> a.fft[0]
-const t =(()=>time)
+let f=()=> a.fft[0]
+const t=(()=>time)
 const pi=(()=>Math.random(Math.PI))
 const sh=(s,o,m)=>(shape(s).repeat(t,1).kaleid([1,2,3].fast()).scale(pi).rotate(t,0.1).out(o))
 const flt=(i,v,o)=>(src(i).scale(v).out(o))
