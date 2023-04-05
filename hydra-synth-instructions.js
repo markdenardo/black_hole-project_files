@@ -4,6 +4,7 @@
 // the x-rays project will run as soon as you load the page
 // the time_dilation project responds dynamically to the sound composition
 // caveat: allow microphone access on your web browser of choice so that you can view the visuals
+// 
 //
 // SOME TO-DOS: 
 // 1. change the buffer by assigning o0, o1,o2,o3 as an argument within the render() function
