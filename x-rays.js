@@ -4,7 +4,6 @@
 // MDN (@markdenardo)
 
 bpm = 300
-
 const t = (() => time)
 const pi = (() => Math.random(Math.PI))
 const f = (() => a.fft[0])
