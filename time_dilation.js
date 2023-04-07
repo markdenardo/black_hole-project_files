@@ -1,4 +1,5 @@
-// licensed with CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+// licensed with CC BY-NC-SA 4.0 
+// https://creativecommons.org/licenses/by-nc-sa/4.0/
 // black_hole - time_dilation
 // MDN (@markdenardo)
 
