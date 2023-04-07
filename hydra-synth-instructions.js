@@ -9,7 +9,6 @@
 // 1. change the buffer by assigning o0, o1,o2,o3 as an argument within the render() function
 //    example: 
 //    render(o0)
-//
 // 2. change the arguments within the project, accessing the variables assigned
 //    example: 
 //    sh(pi,o1,o1)
